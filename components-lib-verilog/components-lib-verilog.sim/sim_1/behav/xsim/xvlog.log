@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/thejoey/digital-lib/components-lib-verilog/components-lib-verilog.srcs/sources_1/new/sequential.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sequential
+INFO: [VRFC 10-311] analyzing module dff
+INFO: [VRFC 10-311] analyzing module dffr
+INFO: [VRFC 10-311] analyzing module dffre
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/thejoey/digital-lib/components-lib-verilog/components-lib-verilog.srcs/sim_1/new/sequential_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sequential_tb

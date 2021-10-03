@@ -1,0 +1,8 @@
+0.7
+2020.2
+Jun 10 2021
+19:45:28
+/home/thejoey/digital-lib/components-lib-verilog/components-lib-verilog.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+/home/thejoey/digital-lib/components-lib-verilog/components-lib-verilog.srcs/sim_1/new/sequential_tb.v,1633243921,verilog,,,,sequential_tb,,,,,,,,
+/home/thejoey/digital-lib/components-lib-verilog/components-lib-verilog.srcs/sources_1/new/combinational.v,1633052072,verilog,,,,Arb;Dec;Enc164;Enc42;Enc42a;EqComp;MagComp;Mux3;Mux6a;Muxb3;PriorityEncoder83;RArb;combinational,,,,,,,,
+/home/thejoey/digital-lib/components-lib-verilog/components-lib-verilog.srcs/sources_1/new/sequential.v,1633052086,verilog,,/home/thejoey/digital-lib/components-lib-verilog/components-lib-verilog.srcs/sim_1/new/sequential_tb.v,,dff;dffr;dffre;sequential,,,,,,,,
